@@ -17,7 +17,6 @@
   "license": "MIT",
   "description": "A web tool for reading, sorting, and applying Darkest Dungeon mod load orders",
   "dependencies": {
-    "@tailwindcss/postcss": "^4.2.1",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.4",
@@ -25,7 +24,7 @@
     "postcss": "^8.5.6",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "tailwindcss": "^4.2.1",
+    "tailwindcss": "^3.4.19",
     "typescript": "^5.9.3",
     "vite": "^7.3.1"
   }
