@@ -1,0 +1,47 @@
+{
+  "mods": [
+    {
+      "id": "mod_quality_of_life",
+      "name": "Quality of Life Improvements",
+      "version": "2.1.0"
+    },
+    {
+      "id": "mod_balance_tweaks",
+      "name": "Balance Tweaks",
+      "version": "1.5.2"
+    },
+    {
+      "id": "mod_new_classes",
+      "name": "New Classes Pack",
+      "version": "3.0.1"
+    },
+    {
+      "id": "mod_visual_enhancement",
+      "name": "Visual Enhancements",
+      "version": "1.2.0"
+    },
+    {
+      "id": "mod_difficulty_mod",
+      "name": "Difficulty Modifier",
+      "version": "2.0.0"
+    },
+    {
+      "id": "mod_ui_overhaul",
+      "name": "UI Overhaul",
+      "version": "1.8.3"
+    },
+    {
+      "id": "mod_sound_pack",
+      "name": "Enhanced Sound Pack",
+      "version": "1.1.0"
+    },
+    {
+      "id": "mod_gameplay_tweaks",
+      "name": "Gameplay Tweaks",
+      "version": "2.3.1"
+    }
+  ],
+  "game_version": "1.0.0",
+  "save_date": "2026-02-26",
+  "profile_name": "Example Profile"
+}
