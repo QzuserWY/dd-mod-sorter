@@ -1,0 +1,14 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "nodeVersion": "18.x",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "routes": [
+    {
+      "src": "^/(?!assets).*",
+      "destination": "/index.html"
+    }
+  ]
+}
